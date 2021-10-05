@@ -1,0 +1,65 @@
+.page 
+{
+	width: 800px;
+	height: 1500px;
+	border: 3px solid darkmagenta;
+	border-radius: 10px;
+	box-shadow: 2px 4px 3px black;
+	font-size: 16px;
+	margin: auto;
+	padding: 15px;
+
+}
+.entete
+{
+	border: 2px solid lightseagreen;
+	height: 200px;
+	border-radius: 10px;
+
+}
+.info{
+	float: left;
+	font-family: fantasy;
+
+}
+.photo
+{
+	float: right;
+
+}
+.section
+{
+	width: 795px;
+	height: 280px;
+	border: 3px solid lightcoral;
+	font-size: 16px;
+	font-family: verdana;
+	margin-top: 30px;
+	border-radius: 20px;
+}
+.date
+{
+	float: left;
+	border: 2px solid plum;
+	width: 110px;
+	height: 180px;
+	margin-top: 1px;
+	padding: 10px;
+	margin-left: 10px;
+	font-family: fantasy;
+	font-size: 14px;
+}
+
+.formation
+{
+	border: 2px solid lightpink ;
+	width: 600px;
+	height: 180px;
+	margin-top: 1px;
+	margin-right: 10px;
+	padding: 10px;
+	float: right;
+	font-family: fantasy;
+	font-size: 14px;
+	
+}
